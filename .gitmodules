@@ -1,0 +1,3 @@
+[submodule "estrannaise.js"]
+	path = estrannaise.js
+	url = https://github.com/a1ix2/estrannaise.js.git
